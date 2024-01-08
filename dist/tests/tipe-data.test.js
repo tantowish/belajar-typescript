@@ -7,8 +7,8 @@ describe('Data Type', function () {
         console.log(name);
         console.log(balance);
         console.log(isVip);
-        name = 1;
-        balance = "10000";
-        isVip = 1;
+        // name = 1
+        // balance = "10000"
+        // isVip = 1
     });
 });
