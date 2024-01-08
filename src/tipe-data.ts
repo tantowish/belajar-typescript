@@ -1,0 +1,1 @@
+const names: string[] = ["Tantows", "Budimeister", "Ahmad Ilyasa"]
